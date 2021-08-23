@@ -1,0 +1,9 @@
+.topContainer{
+    background: url("../../assets/dev.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;/*full image showing */
+    background-repeat: no-repeat;
+    padding: 200px;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+}
